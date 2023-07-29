@@ -1,0 +1,49 @@
+.borderRadius{
+    border-radius: 20;
+}
+
+.navBar{
+    background: #24292E;
+
+}
+
+
+.dashboard{
+
+        background: #2D3339;
+        padding: 0%;
+}
+
+
+
+.textDashBoard {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #13B497;
+    padding-left: 5rem;
+    padding-top: 1%;
+    
+}
+
+.textNavBar {
+    position: absolute;
+    width: 100%;
+    height: 26px;
+    left: calc(63% - 125.56px/2 - 803.35px);
+    top: 5px; 
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #13B497;
+}
+
+.textUserButon {
+
+font-family: 'Poppins';
+font-style: normal;
+color: #FFFFFF;
+}

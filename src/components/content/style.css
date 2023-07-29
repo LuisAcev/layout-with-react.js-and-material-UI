@@ -1,0 +1,28 @@
+.text{
+
+    color: #FFFFFF;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36.3855px;
+    line-height: 55px;
+
+
+}
+
+.bbox{
+
+    background: #272E35;
+    display:flex; 
+    flex-direction: column;
+    border-radius: 2%;
+   
+}
+
+.sBox{
+
+    background: #272E35;
+    border-radius: 1rem;
+    margin-bottom: 2rem;
+    padding: 0;
+}
